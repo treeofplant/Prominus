@@ -1,1 +1,1 @@
---p
+game:GetService("StarterGui"):SetCore("SendNotification",{Title = "Lightux Premium",Text = "Please use the luarmor script in #prem-scripts",Duration = 12})
